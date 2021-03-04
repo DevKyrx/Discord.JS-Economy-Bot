@@ -7,6 +7,10 @@
     quick.db
     ez-games.js
 ```
+#How To Import In Repl
+```
+Repl.it - All you have to do is copy our link, go to console, type git https://github.com/The-Coding-House/Discord.JS-Economy-Bot & you should have it!
+```
 
 # Setup:
 ``` In The Terminal Do npm init
