@@ -8,6 +8,17 @@
     ez-games.js
 ```
 
+# Setup:
+``` In The Terminal Do npm init
+    Install The Packages Above
+    Change Token And Prefix In settings.json
+    Do node . In Terminal
+    
+    Thats It!
+```
+
 # Need Help?
 Join Our Discord For Help!
+
+
 
